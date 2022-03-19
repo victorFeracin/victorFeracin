@@ -12,7 +12,7 @@
 
 <a href="https://www.linkedin.com/in/victorferacin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="victorFeracin" height="30" width="40" /></a>
 
-<h3><br>Email 📧📬: victorhugo.feracin@gmail.com</h3>
+<h3><br>📧📬 Email: victorhugo.feracin@gmail.com</h3>
 
 <h3><br>Skills:</h3>
 
