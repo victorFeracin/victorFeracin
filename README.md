@@ -1,4 +1,4 @@
-<h1>🖥️ Victor Hugo Feracin. Full Stack developer</h1>
+<h1>🖥️ Victor Hugo Feracin - Full Stack developer</h1>
 
 <p><br>Atualmente estudo Engenharia de software na Universidade Tecnológica Federal do Paraná. Aluno do #XP41 da Gama Academy em desenvolvimento Full Stack.</p>
 <p>Aficionado por desenvolvimento web e em busca de mais aprendizado na área da tecnologia.</p>
